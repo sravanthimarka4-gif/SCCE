@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG {
+class GFG{
 
     // Function to find the largest of three numbers using if-else
     static int biggestOfThree(int x, int y, int z) {
